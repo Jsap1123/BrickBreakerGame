@@ -219,7 +219,7 @@ class GamePlay extends JPanel implements KeyListener, ActionListener  {
 				play = true;
 				ballposX = 290;
 				ballposY = 380;
-				ballXdir = -2;
+				ballXdir = -1;
 				ballYdir = -3;
 				score = 0;
 				totalBricks = 24;
